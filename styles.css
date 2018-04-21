@@ -1,0 +1,38 @@
+body {
+	background: #85929E;
+	width: 900px;
+}
+	img {
+		width: 400px;
+		padding-top: 100px;
+		padding-left: 300px;
+		padding-bottom: 50px;
+
+	}
+	h1 {
+		color: white;
+		font-family: helvetica;
+		font-size: 70px;
+		margin: 0px 10px 5px 10px;
+		padding-left: 300px;
+	}
+
+	h4 {
+		color:black;
+		font-family: roboto;
+		font-weight: bolder;
+		font-style: oblique;
+		font-size: 30px;
+		font-kerning: 10px;
+		padding-left: 300px;
+		margin: 10px;
+	}
+
+	p {
+		color:white;
+		font-family: helvetica;
+		font-weight: lighter;
+		font-size: 18px;
+		font-kerning: 130px;
+		padding-left: 300px;
+	}
