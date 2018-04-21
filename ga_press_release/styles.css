@@ -1,0 +1,44 @@
+body {
+  background: #747474;
+}
+h1 {
+  background: black;
+  color: red;
+  font-family: arial;
+  font-size: 40px;
+  text-align: center;
+  border: 10px; 
+}
+#logo {
+  text-align: center;
+}
+img {
+  width: 300px;
+}
+
+a {
+  text-decoration: none;
+}
+
+p{
+	color:blue;
+}
+#subtitle {
+	color:purple;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.up {
+	text-decoration: uppercase;
+}
+
+.stash-gradient {
+	color: purple;
+}
+
+.container {
+	margin:auto;
+}
